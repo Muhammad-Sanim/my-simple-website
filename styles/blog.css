@@ -4,3 +4,10 @@ div {
     margin: 10px;
     border-radius: 10px;
 }
+
+.luffy {
+    width: 60%;
+    height: 300px;
+    object-fit: contain;
+    image-orientation: center;
+}
